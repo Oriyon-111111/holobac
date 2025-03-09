@@ -1,0 +1,8 @@
+# Python template ignores
+__pycache__/
+*.py[cod]
+venv/
+...
+
+# Ignore local environment files
+.env
